@@ -9,7 +9,7 @@
     "node": ">=18.x"
   },
   "scripts": {
-    "start": "nodemon app.js",
+    "start": "node app.js",
     "register": "node commands.js",
     "dev": "nodemon app.js"
   },
